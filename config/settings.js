@@ -1,7 +1,7 @@
 /*
  * Information
  * Creator / Developer: Dani Ramdani (Dani Techno.) - FullStack Engineer
- * Contact creator / Developer: 0895 1254 5999 (WhatsApp), contact@danitechno.com (Email)
+ * Contact creator / Developer: 0831 7679 3414 (WhatsApp), zyxsesi@gmail.com (Email)
 */
 
 /* Thanks to
@@ -36,22 +36,22 @@ module.exports = {
   public_mode: true,
   chat_mode: 'both', // Private, Group, Both/All
   offline_status: false,
-  auto_update_profile_status: false,
+  auto_update_profile_status: true,
   auto_read_messages: true,
   auto_typing: true,
-  auto_recording: false,
-  mongodb_uri: 'Your-MongoDb-URI', // Register here: https://mongodb.com/#sign-up
+  auto_recording: true,
+  mongodb_uri: 'mongodb+srv://rxa76297:<password>@cluster0.4nroyrr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://daniapi.biz.id',
-    key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
+    key: 'ZaSAFxtqrPRix2L' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
-    name: 'Your Bot Name',
+    name: 'Zy-MD',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
-    name: ["Your Name"],
-    number: ["628xxx"]
+    name: ["Zyhaha"],
+    number: ["6283176793414"]
   },
   daily_limit: {
     free: 25,
@@ -60,7 +60,7 @@ module.exports = {
   watermark: {
     sticker: {
       package_name: 'Created by',
-      author_name: 'Your Name'
+      author_name: 'Zyhaha'
     }
   },
   react: {
