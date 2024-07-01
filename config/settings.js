@@ -40,18 +40,18 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
-  mongodb_uri: 'Your-MongoDb-URI', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://rxa76297:<password>@cluster0.4nroyrr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://daniapi.biz.id',
-    key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
+    key: 'sk-un721xu4huhswjz4v' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
-    name: 'Your Bot Name',
+    name: 'OktoXzynz',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
-    name: ["Your Name"],
-    number: ["628xxx"]
+    name: ["Zynz"],
+    number: ["6283176793414"]
   },
   daily_limit: {
     free: 25,
@@ -60,7 +60,7 @@ module.exports = {
   watermark: {
     sticker: {
       package_name: 'Created by',
-      author_name: 'Your Name'
+      author_name: 'OKTOOFFC'
     }
   },
   react: {
@@ -73,7 +73,7 @@ module.exports = {
     timzone: 'Asia/Jakarta'
   },
   media: {
-    image: { url: 'https://telegra.ph/file/c3ad72f45c2cc7cad691a.jpg' },
+    image: { url: 'https://telegra.ph/file/01076136c73f35b4db237.jpg' },
     audio: { url: 'https://cdn.danitechno.com/audio/dj-joanna-breakbeat.mp3' }
   },
   message: {
